@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CellBarcode"]
+	path = CellBarcode
+	url = https://github.com/wenjie1991/cellbarcode
